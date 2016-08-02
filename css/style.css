@@ -1,0 +1,19 @@
+.navigation {
+	background-image: url('../images/background.jpg');
+	background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 45em;
+    overflow: auto;
+}
+.navigation .links {
+	display: inline-block;
+	color: #fff;
+	left: 0;
+    
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
