@@ -1,19 +1,21 @@
-.navigation {
-	background-image: url('../images/background.jpg');
-	background-position: center bottom;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 45em;
-    overflow: auto;
+body {
+	font-family: 'Yrsa', serif;
 }
-.navigation .links {
-	display: inline-block;
-	color: #fff;
-	left: 0;
-    
-    margin: auto;
-    margin-top: -100px;
-    position: absolute;
-    top: 50%;
-    width: 100%;
+.name {
+	padding-left: 6em;
+	padding-top: 10em;
+	padding-bottom: 10em;
+	background-color: #171824;
+	background-size: cover;
+	color: white;
+/* 	border-width: .5em;
+border-style: solid;
+border-color: #E0C383; */
+}
+.name h1 {
+	font-size: 4.5em;
+}
+.name h2 {
+	font-size: 2.5em;
+	margin-top: -1em;
 }
