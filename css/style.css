@@ -20,6 +20,13 @@ body {
 	display: inline-block;
 	font-family: 'Raleway', sans-serif;
 }
+.projects h3 {
+	font-family: 'Exo', sans-serif;
+	font-size: 3em;
+	font-weight: bold;
+	margin-bottom: -2em;
+	margin-left: 5em;
+}
 .projects .description {
 	margin-top: -15em;
 	margin-left: 23em;
@@ -30,4 +37,19 @@ img {
 	margin-top: 7em;
 	margin-bottom: 7em;
 	margin-left: 45em;
+}
+.nyt .description {
+	padding-bottom: 7em;
+}
+.about-me {
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	background-color: #171824;
+	background-size: cover;
+	color: white;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+.about-me h6 {
+	font-size: 2em;
 }
